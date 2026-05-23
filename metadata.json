@@ -1,0 +1,6 @@
+{
+  "name": "Hashtag Generator",
+  "description": "تطبيق توليد وجلب الهاشتاجات الذكية باستخدام الذكاء الاصطناعي لمختلف منصات التواصل الاجتماعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
